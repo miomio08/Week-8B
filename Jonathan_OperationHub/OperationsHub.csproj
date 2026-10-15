@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk"><PropertyGroup><OutputType>WinExe</OutputType><TargetFramework>net8.0-windows</TargetFramework><UseWPF>true</UseWPF><Nullable>enable</Nullable><ImplicitUsings>enable</ImplicitUsings><RootNamespace>OperationsHub</RootNamespace></PropertyGroup><ItemGroup>
+  <None Remove="Images\Arizona.jpg" />
+  <None Remove="Images\Chips.jpg" />
+  <None Remove="Images\Coffee.jpg" />
+  <None Remove="Images\Cookies.jpg" />
+  <None Remove="Images\Fries.jpg" />
+  <None Remove="Images\Grilled Chicken.jpg" />
+  <None Remove="Images\Tulip Bouquet.jpg" />
+  <None Remove="Images\Water.jpg" />
+</ItemGroup><ItemGroup>
+  <Content Include="Images\Arizona.jpg">
+    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+  </Content>
+  <Content Include="Images\Chips.jpg">
+    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+  </Content>
+  <Content Include="Images\Coffee.jpg">
+    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+  </Content>
+  <Content Include="Images\Cookies.jpg">
+    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+  </Content>
+  <Content Include="Images\Fries.jpg">
+    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+  </Content>
+  <Content Include="Images\Grilled Chicken.jpg">
+    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+  </Content>
+  <Content Include="Images\Tulip Bouquet.jpg">
+    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+  </Content>
+  <Content Include="Images\Water.jpg">
+    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+  </Content>
+</ItemGroup></Project>

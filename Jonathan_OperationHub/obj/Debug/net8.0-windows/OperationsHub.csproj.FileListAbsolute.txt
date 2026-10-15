@@ -1,0 +1,29 @@
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\bin\Debug\net8.0-windows\OperationsHub.exe
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\bin\Debug\net8.0-windows\OperationsHub.deps.json
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\bin\Debug\net8.0-windows\OperationsHub.runtimeconfig.json
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\bin\Debug\net8.0-windows\OperationsHub.dll
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\bin\Debug\net8.0-windows\OperationsHub.pdb
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\obj\Debug\net8.0-windows\OperationsHub_MarkupCompile.cache
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\obj\Debug\net8.0-windows\OperationsHub.g.resources
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\obj\Debug\net8.0-windows\OperationsHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\obj\Debug\net8.0-windows\OperationsHub.AssemblyInfoInputs.cache
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\obj\Debug\net8.0-windows\OperationsHub.AssemblyInfo.cs
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\obj\Debug\net8.0-windows\OperationsHub.csproj.CoreCompileInputs.cache
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\obj\Debug\net8.0-windows\OperationsHub.dll
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\obj\Debug\net8.0-windows\refint\OperationsHub.dll
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\obj\Debug\net8.0-windows\OperationsHub.pdb
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\obj\Debug\net8.0-windows\OperationsHub.genruntimeconfig.cache
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\obj\Debug\net8.0-windows\ref\OperationsHub.dll
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\obj\Debug\net8.0-windows\Operatio.A7E2720E.Up2Date
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\bin\Debug\net8.0-windows\Images\Arizona.jpg
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\bin\Debug\net8.0-windows\Images\Chips.jpg
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\bin\Debug\net8.0-windows\Images\Coffee.jpg
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\bin\Debug\net8.0-windows\Images\Cookies.jpg
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\bin\Debug\net8.0-windows\Images\Fries.jpg
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\bin\Debug\net8.0-windows\Images\Grilled Chicken.jpg
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\bin\Debug\net8.0-windows\Images\Tulip Bouquet.jpg
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\bin\Debug\net8.0-windows\Images\Water.jpg
+C:\Users\B217\Documents\Week 8\raw-operations-hub\OperationsHub\obj\Debug\net8.0-windows\OperationsHub_Content.g.cs
