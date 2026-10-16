@@ -1,0 +1,57 @@
+C:\Users\B217\Downloads\OperationsHub\bin\Debug\net8.0-windows\OperationsHub.exe
+C:\Users\B217\Downloads\OperationsHub\bin\Debug\net8.0-windows\OperationsHub.deps.json
+C:\Users\B217\Downloads\OperationsHub\bin\Debug\net8.0-windows\OperationsHub.runtimeconfig.json
+C:\Users\B217\Downloads\OperationsHub\bin\Debug\net8.0-windows\OperationsHub.dll
+C:\Users\B217\Downloads\OperationsHub\bin\Debug\net8.0-windows\OperationsHub.pdb
+C:\Users\B217\Downloads\OperationsHub\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\B217\Downloads\OperationsHub\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\B217\Downloads\OperationsHub\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\B217\Downloads\OperationsHub\obj\Debug\net8.0-windows\OperationsHub_MarkupCompile.cache
+C:\Users\B217\Downloads\OperationsHub\obj\Debug\net8.0-windows\OperationsHub.g.resources
+C:\Users\B217\Downloads\OperationsHub\obj\Debug\net8.0-windows\OperationsHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B217\Downloads\OperationsHub\obj\Debug\net8.0-windows\OperationsHub.AssemblyInfoInputs.cache
+C:\Users\B217\Downloads\OperationsHub\obj\Debug\net8.0-windows\OperationsHub.AssemblyInfo.cs
+C:\Users\B217\Downloads\OperationsHub\obj\Debug\net8.0-windows\OperationsHub.csproj.CoreCompileInputs.cache
+C:\Users\B217\Downloads\OperationsHub\obj\Debug\net8.0-windows\OperationsHub.dll
+C:\Users\B217\Downloads\OperationsHub\obj\Debug\net8.0-windows\refint\OperationsHub.dll
+C:\Users\B217\Downloads\OperationsHub\obj\Debug\net8.0-windows\OperationsHub.pdb
+C:\Users\B217\Downloads\OperationsHub\obj\Debug\net8.0-windows\OperationsHub.genruntimeconfig.cache
+C:\Users\B217\Downloads\OperationsHub\obj\Debug\net8.0-windows\ref\OperationsHub.dll
+C:\Users\B217\Downloads\OperationsHub\bin\Debug\net8.0-windows\images\Arizona.jpg
+C:\Users\B217\Downloads\OperationsHub\obj\Debug\net8.0-windows\OperationsHub_Content.g.cs
+C:\Users\B217\Downloads\OperationsHub\bin\Debug\net8.0-windows\images\Chips.jpg
+C:\Users\B217\Downloads\OperationsHub\bin\Debug\net8.0-windows\images\Coffee.jpg
+C:\Users\B217\Downloads\OperationsHub\bin\Debug\net8.0-windows\images\Cookies.jpg
+C:\Users\B217\Downloads\OperationsHub\bin\Debug\net8.0-windows\images\Fries.jpg
+C:\Users\B217\Downloads\OperationsHub\bin\Debug\net8.0-windows\images\Grilled Chicken.jpg
+C:\Users\B217\Downloads\OperationsHub\bin\Debug\net8.0-windows\images\Tulip Bouquet.jpg
+C:\Users\B217\Downloads\OperationsHub\bin\Debug\net8.0-windows\images\Water.jpg
+C:\OperationsHub - miomio08\bin\Debug\net8.0-windows\images\Arizona.jpg
+C:\OperationsHub - miomio08\bin\Debug\net8.0-windows\images\Chips.jpg
+C:\OperationsHub - miomio08\bin\Debug\net8.0-windows\images\Coffee.jpg
+C:\OperationsHub - miomio08\bin\Debug\net8.0-windows\images\Cookies.jpg
+C:\OperationsHub - miomio08\bin\Debug\net8.0-windows\images\Fries.jpg
+C:\OperationsHub - miomio08\bin\Debug\net8.0-windows\images\Grilled Chicken.jpg
+C:\OperationsHub - miomio08\bin\Debug\net8.0-windows\images\Tulip Bouquet.jpg
+C:\OperationsHub - miomio08\bin\Debug\net8.0-windows\images\Water.jpg
+C:\OperationsHub - miomio08\bin\Debug\net8.0-windows\OperationsHub.exe
+C:\OperationsHub - miomio08\bin\Debug\net8.0-windows\OperationsHub.deps.json
+C:\OperationsHub - miomio08\bin\Debug\net8.0-windows\OperationsHub.runtimeconfig.json
+C:\OperationsHub - miomio08\bin\Debug\net8.0-windows\OperationsHub.dll
+C:\OperationsHub - miomio08\bin\Debug\net8.0-windows\OperationsHub.pdb
+C:\OperationsHub - miomio08\obj\Debug\net8.0-windows\MainWindow.baml
+C:\OperationsHub - miomio08\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\OperationsHub - miomio08\obj\Debug\net8.0-windows\App.g.cs
+C:\OperationsHub - miomio08\obj\Debug\net8.0-windows\OperationsHub_Content.g.cs
+C:\OperationsHub - miomio08\obj\Debug\net8.0-windows\OperationsHub_MarkupCompile.cache
+C:\OperationsHub - miomio08\obj\Debug\net8.0-windows\OperationsHub.g.resources
+C:\OperationsHub - miomio08\obj\Debug\net8.0-windows\OperationsHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\OperationsHub - miomio08\obj\Debug\net8.0-windows\OperationsHub.AssemblyInfoInputs.cache
+C:\OperationsHub - miomio08\obj\Debug\net8.0-windows\OperationsHub.AssemblyInfo.cs
+C:\OperationsHub - miomio08\obj\Debug\net8.0-windows\OperationsHub.csproj.CoreCompileInputs.cache
+C:\OperationsHub - miomio08\obj\Debug\net8.0-windows\OperationsHub.dll
+C:\OperationsHub - miomio08\obj\Debug\net8.0-windows\refint\OperationsHub.dll
+C:\OperationsHub - miomio08\obj\Debug\net8.0-windows\OperationsHub.pdb
+C:\OperationsHub - miomio08\obj\Debug\net8.0-windows\OperationsHub.genruntimeconfig.cache
+C:\OperationsHub - miomio08\obj\Debug\net8.0-windows\ref\OperationsHub.dll
+C:\OperationsHub - miomio08\obj\Debug\net8.0-windows\Operatio.A7E2720E.Up2Date
